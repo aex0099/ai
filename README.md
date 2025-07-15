@@ -24,7 +24,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-3. เปิดเบราว์เซอร์ที่ลิงก์ที่แสดง (เช่น http://localhost:8501)
+3. เปิดเบราว์เซอร์ที่ลิงก์ที่แสดง (เช่น https://organic-engine-77v9w4gqgjp29vv-8503.app.github.dev/)
 4. อัปโหลดภาพถ่ายการแต่งตัว ระบบจะแสดงผลวิเคราะห์สีและสไตล์แฟชั่น
 
 ## โครงสร้างไฟล์
